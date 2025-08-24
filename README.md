@@ -10,7 +10,7 @@
 
 <h2 align="center">Top View</h2>
   <p align="center">
-    <img src="top_view.png" alt="Top view" width="600">
+    <img src="front_view.png" alt="Top view" width="600">
   </p>
 
 <h2 align="center">Bottom View</h2>
