@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=ENC_B Pin=J1-1
+Added Pin To Net: NetName=ENABLE Pin=J1-2
+Added Pin To Net: NetName=INPUT2 Pin=J1-3
+Added Member To Class: ClassName=HW1_Witt_u1090350 Member=Component J4 Barrel Jack
